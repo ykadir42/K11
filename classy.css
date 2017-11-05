@@ -1,0 +1,67 @@
+body{
+	background-image:url("hypnotize.png");
+	margin: auto;
+	text-align: center;
+}
+
+.extreme{
+	border-top: dotted #444444 20px;
+	border-bottom: dotted #444444 20px;
+	opacity: 0.2;
+}
+
+ul{
+	padding-left: 44.5%;
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #333333;
+}
+
+li{
+	float: left;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px;
+	margin: 5px;
+}
+
+a:hover {
+    background-color: #222222;
+}
+
+/*ul {
+    list-style-type: none;
+    padding: auto;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}*/
+
+h2{
+	text-shadow: 2px 2px #aaaaaa;
+}
+
+p{
+	background-color: #f4f4f4;
+	margin-left: 20%;
+	margin-right: 20%;
+}
